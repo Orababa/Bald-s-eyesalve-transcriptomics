@@ -1,7 +1,7 @@
 # Balds-eyesalve-transcriptomics
 Understanding the mechanism of action of a natural product (Bald's eyesalve) using gene expression (transcriptomics) analysis
 
-```markdown
+
 # RNA-Seq Differential Expression Analysis Pipeline
 
 This repository contains the workflow and scripts for a comparative transcriptomic analysis of **_Staphylococcus aureus_** and **_Acinetobacter baumannii_** using RNA sequencing (RNA-Seq).
@@ -24,6 +24,7 @@ The pipeline performs the following steps:
 ## Pipeline Steps
 
 ### 1. Quality Control
+
 ```bash
 fastqc *.fastq.gz
 ```
