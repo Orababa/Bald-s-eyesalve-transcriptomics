@@ -157,13 +157,6 @@ Performed in **R** using the **[DESeq2](https://bioconductor.org/packages/DESeq2
   doi = {10.1101/2023.xx.xx.xxxxxx}
 }
 ```
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 *Last updated: November 11, 2025, 03:36 PM GMT*
